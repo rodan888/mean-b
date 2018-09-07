@@ -1,0 +1,26 @@
+{
+  "name": "mean-blog",
+  "version": "1.0.0",
+  "description": "MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodan888/mean-b.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Alexandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodan888/mean-b/issues"
+  },
+  "homepage": "https://github.com/rodan888/mean-b#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13"
+  }
+}
